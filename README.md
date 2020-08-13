@@ -1,8 +1,8 @@
 ## Bienvenido a la página del equipo 18
 
-Esta página está creada con el fin de mostrar información relacionada con el SARS-CoV-2  
+##Esta página está creada con el fin de mostrar información relacionada con el SARS-CoV-2  
 
-You can use the [editor on GitHub](https://github.com/Fredie03/Challenge_CdeCMx_Team18/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Sitio para editar [editor on GitHub](https://github.com/Fredie03/Challenge_CdeCMx_Team18/edit/master/README.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

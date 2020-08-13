@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenido a la página del equipo 18
 
 You can use the [editor on GitHub](https://github.com/Fredie03/Challenge_CdeCMx_Team18/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

@@ -2,7 +2,7 @@
 
 _**Esta página está creada con el fin de mostrar información relacionada con el SARS-CoV-2**_ 
 
-.[SARS-CoV-2].(https://raw.githubusercontent.com/Fredie03/Challenge_CdeCMx_Team18/master/SARS.jpg)
+![SARS-CoV-2](^https://raw.githubusercontent.com/Fredie03/Challenge_CdeCMx_Team18/master/SARS.jpg^)
 
 **Sitio para editar:** [editor on GitHub](https://github.com/Fredie03/Challenge_CdeCMx_Team18/edit/master/README.md)
 
